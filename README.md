@@ -384,10 +384,10 @@ tanishka-28:~$ htop
 ```
 
 <!-- INSERT: GitHub Readme Stats card here -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=tanishka-28&show_icons=true&theme=dark" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=tanishka-28&show_icons=true&theme=dark" />
 
 <!-- INSERT: Top Languages card here -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka-28&theme=dark" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka-28&theme=dark" />
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
@@ -396,7 +396,7 @@ tanishka-28:~$ htop
 ```
 
 <!-- INSERT: GitHub Streak Stats here -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishka-28&theme=dark" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishka-28&theme=dark" />
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
@@ -405,7 +405,7 @@ tanishka-28:~$ htop
 ```
 
 <!-- INSERT: Contribution Snake animation here -->
-<!-- <img src="https://raw.githubusercontent.com/tanishka-28/tanishka-28/output/github-contribution-grid-snake.svg" /> -->
+<img src="https://raw.githubusercontent.com/tanishka-28/tanishka-28/output/github-contribution-grid-snake.svg" />
 
 > note: stats fetched live — numbers may lag behind actual effort.
 
