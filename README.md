@@ -375,7 +375,41 @@ tanishka-28:~$ htop
   Mem:   62% used -- mostly by curiosity.service
   Swap:  coffee.swap -- 91% used
 ```
+## GitHub Stats
 
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│ tanishka-28:~$ curl -s api.github.com/users/USERNAME/stats              │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<!-- INSERT: GitHub Readme Stats card here -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=tanishka-28&show_icons=true&theme=dark" /> -->
+
+<!-- INSERT: Top Languages card here -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka-28&theme=dark" /> -->
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│ STREAK LOG                                                               │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<!-- INSERT: GitHub Streak Stats here -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishka-28&theme=dark" /> -->
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│ CONTRIBUTION GRAPH                                                       │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<!-- INSERT: Contribution Snake animation here -->
+<!-- <img src="https://raw.githubusercontent.com/tanishka-28/tanishka-28/output/github-contribution-grid-snake.svg" /> -->
+
+> note: stats fetched live — numbers may lag behind actual effort.
+
+---
 ```
 
 ## Package Manager & Kernel Log
