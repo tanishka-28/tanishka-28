@@ -55,8 +55,7 @@
 ---
 
 ## GitHub Stats
-
-<img src="https://raw.githubusercontent.com/tanishka-28/tanishka-28/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+──────────────────────────────────────────────────────────────────────────┐│ CONTRIBUTION GRAPH                                                       │└──────────────────────────────────────────────────────────────────────────┘``` <!-- INSERT: Contribution Snake animation here --><img src="https://raw.githubusercontent.com/tanishka-28/tanishka-28/output/github-contribution-grid-snake.svg" /> > note: stats fetched live — numbers may lag behind actual effort.
 
 ---
 
@@ -67,10 +66,4 @@
 │ "The data doesn't lie, but it doesn't explain itself         │
 │  either. That's still my job."                               │
 └──────────────────────────────────────────────────────────────┘
-```
-
-```bash
-tanishka-28:~$ uptime
- current state: curious
- Expected completion: NULL (learning does not have an exit code)
 ```
