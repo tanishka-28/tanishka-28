@@ -4,7 +4,7 @@
    ██║   ███████║██╔██╗ ██║██║███████╗███████║█████╔╝ ███████║
    ██║   ██╔══██║██║╚██╗██║██║╚════██║██╔══██║██╔═██╗ ██╔══██║
    ██║   ██║  ██║██║ ╚████║██║███████║██║  ██║██║  ██╗██║  ██║
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
                             W A G H
 ```
 
@@ -33,29 +33,47 @@
 │ These bars track LEARNING PROGRESS, not proficiency.         │
 │ A short bar just means I started later.                      │
 │                                                              │
-│ -- Math & Data ---------------------------------             │
+│ -- Math & Data ----------------------------------------------│
 │ Statistics        ████████████████░░  85%                    │
 │ Excel             ███████████████░░░  80%                    │
 │ SQL               ██████████████░░░░  75%                    │
 │                                                              │
-│ -- Programming ---------------------------------             │
+│ -- Programming ----------------------------------------------│
 │ Java              ██████████████░░░░  75%                    │
 │ Python            ████████████░░░░░░  65%                    │
 │                                                              │
-│ -- Machine Learning ----------------------------             │
+│ -- Machine Learning -----------------------------------------│
 │ NumPy             ████░░░░░░░░░░░░░░  20%                    │
 │ Pandas            ████░░░░░░░░░░░░░░  20%                    │
 │ Machine Learning  ███░░░░░░░░░░░░░░░  15%                    │
 │ TensorFlow        ██░░░░░░░░░░░░░░░░  10%                    │
 │                                                              │
-│ -- Visualization -------------------------------             │
+│ -- Visualization --------------------------------------------│
 │ Power BI          [ queued — install pending ]               │
 └──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Projects
+
+```bash
+tanishka-28:~$ tree projects/ -L 2
+
+projects/
+├── Social_Earnings/     # Earnings tracking platform
+├── SaveMate/            # Personal finance / savings assistant
+├── Dermavision_AI/      # AI-assisted skin analysis concept
+├── FFPMS/               # Faculty Funding Proposal System (Java, Servlets, MySQL)
+├── QR_Ordering_System/  # Café table ordering (Next.js, Supabase)
+└── Portfolio/           # 3D diorama aesthetic (Next.js 15)
+```
 
 ---
 
 ## GitHub Stats
-──────────────────────────────────────────────────────────────────────────┐│ CONTRIBUTION GRAPH                                                       │└──────────────────────────────────────────────────────────────────────────┘``` <!-- INSERT: Contribution Snake animation here --><img src="https://raw.githubusercontent.com/tanishka-28/tanishka-28/output/github-contribution-grid-snake.svg" /> > note: stats fetched live — numbers may lag behind actual effort.
+
+<img src="https://raw.githubusercontent.com/tanishka-28/tanishka-28/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 
 ---
 
